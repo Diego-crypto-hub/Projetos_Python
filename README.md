@@ -16,40 +16,40 @@ Listas e outros conceitos básicos
 Lógica de programação
 🚀 Projetos
 #	Projeto	Conceitos praticados
- 01	🧮 Calculadora	Operações matemáticas, entrada de dados
- 02	🔢 Tabuada	for, operações matemáticas
- 03	🔀 Par ou Ímpar	if, else, operadores
- 04	➕ Soma de números	Variáveis e operadores
- 05	➖ Subtração	Variáveis e operadores
- 06	✖️ Multiplicação	Operadores matemáticos
- 07	➗ Divisão	Operadores matemáticos
- 08	📊 Média de notas	Variáveis e cálculos
- 09	🔍 Maior e menor número	Condicionais
- 10	🔢 Contagem numérica	Estruturas de repetição
- 11	🔄 Contagem regressiva	while
- 12	🎯 Adivinhe o número	Condicionais e repetição
- 13	🔢 Números pares	for e condicionais
- 14	🔢 Números ímpares	for e condicionais
- 15	➕ Soma de vários números	Repetição e acumuladores
- 16	📈 Média de vários números	Repetição e cálculos
- 17	🔢 Sequência numérica	Estruturas de repetição
- 18	🔢 Fatorial	Repetição e matemática
- 19	🔢 Multiplicação sucessiva	while e operadores
- 20	🔍 Verificação de número	Condicionais
- 21	📊 Classificação de notas	if, elif, else
- 22	🎂 Cálculo de idade	Variáveis e operações
- 23	💰 Cálculo de desconto	Porcentagem e operadores
- 24	💵 Conversão de valores	Operações matemáticas
- 25	📏 Conversão de medidas	Cálculos e variáveis
- 26	🔢 Soma de pares	for e condicionais
- 27	🔢 Soma de ímpares	for e condicionais
- 28	🎯 Maior valor	Comparação e condicionais
- 29	🔄 Repetição com while	Estrutura while
- 30	🔁 Repetição com for	Estrutura for
- 31	🧠 Desafio de lógica	Condicionais e operadores
- 32	🔢 Sequência de números	Repetição
- 33	📊 Análise de números	Condicionais e repetição
- 34	🏆 Desafio final	Revisão dos fundamentos
+ -01	🧮 Calculadora	Operações matemáticas, entrada de dados
+ -02	🔢 Tabuada	for, operações matemáticas
+ -03	🔀 Par ou Ímpar	if, else, operadores
+ -04	➕ Soma de números	Variáveis e operadores
+ -05	➖ Subtração	Variáveis e operadores
+ -06	✖️ Multiplicação	Operadores matemáticos
+ -07	➗ Divisão	Operadores matemáticos
+ -08	📊 Média de notas	Variáveis e cálculos
+ -09	🔍 Maior e menor número	Condicionais
+ -10	🔢 Contagem numérica	Estruturas de repetição
+ -11	🔄 Contagem regressiva	while
+ -12	🎯 Adivinhe o número	Condicionais e repetição
+ -13	🔢 Números pares	for e condicionais
+ -14	🔢 Números ímpares	for e condicionais
+ -15	➕ Soma de vários números	Repetição e acumuladores
+ -16	📈 Média de vários números	Repetição e cálculos
+ -17	🔢 Sequência numérica	Estruturas de repetição
+ -18	🔢 Fatorial	Repetição e matemática
+ -19	🔢 Multiplicação sucessiva	while e operadores
+ -20	🔍 Verificação de número	Condicionais
+ -21	📊 Classificação de notas	if, elif, else
+ -22	🎂 Cálculo de idade	Variáveis e operações
+ -23	💰 Cálculo de desconto	Porcentagem e operadores
+ -24	💵 Conversão de valores	Operações matemáticas
+ -25	📏 Conversão de medidas	Cálculos e variáveis
+ -26	🔢 Soma de pares	for e condicionais
+ -27	🔢 Soma de ímpares	for e condicionais
+ -28	🎯 Maior valor	Comparação e condicionais
+ -29	🔄 Repetição com while	Estrutura while
+ -30	🔁 Repetição com for	Estrutura for
+ -31	🧠 Desafio de lógica	Condicionais e operadores
+ -32	🔢 Sequência de números	Repetição
+ -33	📊 Análise de números	Condicionais e repetição
+ -34	🏆 Desafio final	Revisão dos fundamentos
 
 Nota: os nomes acima podem ser alterados para corresponder exatamente aos projetos existentes no repositório.
 
